@@ -1,0 +1,13 @@
+* {
+    background-color: #e7eaf6;
+}
+
+#head {
+    background-color: #a2a8d3;
+    text-align: center;
+    color: #113f67;
+}
+
+.body {
+    font-size: 20px;
+}
